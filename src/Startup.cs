@@ -2,8 +2,8 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-[assembly: FunctionsStartup(typeof(RCL.LetsEncrypt.AutoRenew.Function.Startup))]
-namespace RCL.LetsEncrypt.AutoRenew.Function
+[assembly: FunctionsStartup(typeof(RCL.AutoRenew.Function.Startup))]
+namespace RCL.AutoRenew.Function
 {
     public class Startup : FunctionsStartup
     {

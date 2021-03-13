@@ -4,9 +4,9 @@ using System.Threading.Tasks;
 using Microsoft.Azure.WebJobs;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
-using RCL.LetsEncrypt.SDK;
+using RCL.SDK;
 
-namespace RCL.LetsEncrypt.AutoRenew.Function
+namespace RCL.AutoRenew.Function
 {
     public class RenewCertificates
     {
