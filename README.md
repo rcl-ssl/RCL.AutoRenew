@@ -32,7 +32,7 @@ This is how you can contribute :
 
 - You need a basic understanding of Git and GitHub.com
 
-- Open an [issue](https://github.com/rcl-letsencrypt-auto-ssl/RCL.LetsEncrypt.AutoRenew/issues) describing what you want to do, such as fixing a bug or adding a new feature. Wait for approval before you invest much time
+- Open an [issue](https://github.com/rcl-ssl/RCL.AutoRenew/issues) describing what you want to do, such as fixing a bug or adding a new feature. Wait for approval before you invest much time
 
 - Fork the repo of the **master** branch and create a new branch for your changes
 
