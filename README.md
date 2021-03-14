@@ -1,12 +1,12 @@
-# RCL.LetsEncrypt.AutoRenew
+# RCL AutoRenew Function
 
-Use this Microsoft Azure Function app to automatically renew TLS/SSL certificates created with the RCL Portal.
+Use this Microsoft Azure Function app to automatically renew SSL/TLS certificates created with the RCL Portal.
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frcl-letsencrypt-auto-ssl%2FRCL.LetsEncrypt.AutoRenew%2Fmaster%2Fazuredeploy.json)
 
-## Automatically Renew TLS/SSL Certificates
+## Automatically Renew SSL/TLS Certificates
 
-You can use the function app to automatically renew TLS/SSL certificates created in the **RCL Lets Encrypt Portal** using the the following creation options :
+You can use the function app to automatically renew SSL/TLS certificates created in the **RCL Portal** using the the following creation options :
 
 - **Azure App Services** 
 - Azure Key Vault
