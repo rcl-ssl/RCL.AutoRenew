@@ -99,15 +99,15 @@
               "value": "undefined"
             },
             {
-              "name": "LetsEncryptSDK:apiEndPoint",
-              "value": "https://letsencryptapi.azure-api.net"
+              "name": "RCLSDK:apiEndPoint",
+              "value": "https://rclapi.azure-api.net"
             },
             {
-              "name": "LetsEncryptSDK:armResource",
+              "name": "RCLSDK:armResource",
               "value": "https://management.core.windows.net"
             },
             {
-              "name": "LetsEncryptSDK:keyVaultResource",
+              "name": "RCLSDK:keyVaultResource",
               "value": "https://vault.azure.net"
             }
           ]
