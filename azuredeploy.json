@@ -122,7 +122,7 @@
             "[resourceId('Microsoft.Web/sites', variables('appName'))]"
           ],
           "properties": {
-            "RepoUrl": "https://github.com/rcl-letsencrypt-auto-ssl/RCL.LetsEncrypt.AutoRenew.git",
+            "RepoUrl": "https://github.com/rcl-ssl/RCL.AutoRenew.git",
             "branch": "master",
             "IsManualIntegration": true
           }
