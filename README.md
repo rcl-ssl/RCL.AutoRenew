@@ -2,7 +2,7 @@
 
 Use this Microsoft Azure Function app to automatically renew SSL/TLS certificates created with the RCL Portal.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frcl-letsencrypt-auto-ssl%2FRCL.LetsEncrypt.AutoRenew%2Fmaster%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frcl-ssl%2FRCL.AutoRenew%2Fmaster%2Fazuredeploy.json)
 
 ## Automatically Renew SSL/TLS Certificates
 
