@@ -40,6 +40,6 @@ This is how you can contribute :
 
 - Respond to PR feedback
 
-## RCL Lets Encrypt SDK
+## RCL SDK
 
 This application was built with the [RCL SDK](https://docs.rclapp.com/sdk/sdk.html)
